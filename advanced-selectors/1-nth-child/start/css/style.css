@@ -1,2 +1,6 @@
 /* :nth-child Pseudo-classes------------------ */
 
+li:nth-child(3n) {
+  background: #52bab3;
+  color: white;
+}
